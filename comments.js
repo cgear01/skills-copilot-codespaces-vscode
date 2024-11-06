@@ -2,6 +2,7 @@
 // Create a new comment
 // Update a comment
 // Delete a comment
+// Added a new comment
 
 const express = require('express');
 const router = express.Router();
